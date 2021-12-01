@@ -1,0 +1,21 @@
+.container {
+/* Prussian Blue */
+background:#1C3144;
+
+/* Feldgrau */
+background:#596F62;
+
+/* Aspargus */
+background:#7EA16B;
+
+/* Yellow Green Crayola */
+background: #C3D898;
+
+/* Persian Plum */
+background: #70161E;
+}
+
+/* 
+Set-ExecutionPolicy Unrestricted -Scope Process
+venv\Scripts\activate 
+*/
